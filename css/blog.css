@@ -1,0 +1,70 @@
+.blog-name,
+h3, 
+h2 {
+    font-family: 'Great Vibes', cursive;
+}
+
+.jumbotron {
+    color: #7eaaaf;
+    background-image: url("../images/nowe_zdjecia/glowne/main.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    margin-bottom: 0;
+}
+
+.nav a{
+    color: #7eaaaf;
+}
+
+.blog-footer {
+    padding: 2.5rem 0;
+    color: #999;
+    text-align: center;
+    background-color: #f9f9f9;
+    border-top: .05rem solid #e5e5e5;
+}
+
+.blog-footer a {
+    color: #7eaaaf;
+}
+
+.btn {
+    border-radius: 2rem;
+}
+
+.rounded-big {
+    border-radius: 1rem;
+}
+
+.blog-pagination .btn {
+    color: #7eaaaf;
+    border-color: #7eaaaf;
+}
+.blog-pagination .btn:hover,
+.blog-pagination .btn:focus,
+.blog-pagination .btn:active {
+    color: #ffffff;
+    background-color: #7eaaaf;
+}
+
+#map {
+    width: 100%;
+    height: 300px;
+}
+
+.header-colapsed .jumbotron {
+    padding-top: 4rem;
+    color: white;
+    height: 20vh;
+}
+.header-colapsed .arrow-down {
+    background-color: white;
+    border-radius: .4rem;
+}
+
+.arrow-down {
+    width: 3rem;
+    height: 3rem;
+}
